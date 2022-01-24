@@ -630,8 +630,9 @@ body {
   list-style: none;
   margin-bottom: 70px;
 }
-.order-office-list{
-  width: 100%;
+.container-second{
+  width: 1520px;
+  margin: 0 auto;
 }
 .offer-item{
   width: 506px;
@@ -1419,3 +1420,4 @@ body {
   color: #222;
   font-weight: 500;
 }
+
